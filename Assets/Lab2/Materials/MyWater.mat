@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: My
-  m_Shader: {fileID: -6465566751694194690, guid: 03d79d75c627fa6488e27049c81b1c2c,
+  m_Name: MyWater
+  m_Shader: {fileID: -6465566751694194690, guid: b39073b0fa3fa8345a6331ad5f53ba59,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -117,8 +117,8 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _amplitude: 0.21
-    - _speed: 9
+    - _amplitude: 1
+    - _speed: 2
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
