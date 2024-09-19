@@ -84,7 +84,7 @@ Light:
     serializedVersion: 2
     m_Bits: 55
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 3
   m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
+  m_AdditionalLightsShadowResolutionTier: 1
   m_LightLayerMask: 1
   m_RenderingLayers: 1
   m_CustomShadowLayers: 0
@@ -202,7 +202,7 @@ Light:
     serializedVersion: 2
     m_Bits: 55
   m_RenderingLayerMask: 1
-  m_Lightmapping: 2
+  m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
   m_BounceIntensity: 0
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Version: 3
   m_UsePipelineSettings: 1
-  m_AdditionalLightsShadowResolutionTier: 2
+  m_AdditionalLightsShadowResolutionTier: 1
   m_LightLayerMask: 1
   m_RenderingLayers: 1
   m_CustomShadowLayers: 0
@@ -247,17 +247,17 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.081
+      value: 4
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.498
+      value: 1.43
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.248
+      value: -0.28
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
@@ -307,12 +307,12 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8164078558771037576, guid: c423c0534801df94b9c1d2ced31e7768,
         type: 3}
       propertyPath: m_StaticEditorFlags
-      value: 2147483647
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

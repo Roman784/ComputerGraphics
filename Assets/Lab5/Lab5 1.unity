@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 112000000, guid: 5c401bb03cf72334082541712e2512ba,
+  m_LightingDataAsset: {fileID: 112000000, guid: 4390a4b808982064c9907b5c03e0a5f7,
     type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 9fa90c9aeaa5b8b4d9ae48488ff35b24,
     type: 2}
@@ -3299,55 +3299,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 1779344299888582151, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3463333154363233233, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3713934986340476780, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_AdditionalLightsShadowResolutionTier
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5240818577342348823, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_AdditionalLightsShadowResolutionTier
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5245199591414782511, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_Lightmapping
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6982430032734595771, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_Lightmapping
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6982430032734595771, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_Shadows.m_Strength
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 7141374987297527216, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 7294788882520532702, guid: 5031644217c9e34459ae868c6caafc0d,
         type: 3}
       propertyPath: m_Name
       value: staff_uncommon
-      objectReference: {fileID: 0}
-    - target: {fileID: 7294788882520532702, guid: 5031644217c9e34459ae868c6caafc0d,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7960001815975214180, guid: 5031644217c9e34459ae868c6caafc0d,
         type: 3}
@@ -3362,7 +3317,7 @@ PrefabInstance:
     - target: {fileID: 7960001815975214180, guid: 5031644217c9e34459ae868c6caafc0d,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.248
+      value: -0.28
       objectReference: {fileID: 0}
     - target: {fileID: 7960001815975214180, guid: 5031644217c9e34459ae868c6caafc0d,
         type: 3}
@@ -3600,26 +3555,6 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 433619309180418537, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 1214172834125273680, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2040815539268536229, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_AdditionalLightsShadowResolutionTier
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 5508451346822696991, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_Lightmapping
-      value: 1
-      objectReference: {fileID: 0}
     - target: {fileID: 7754242101029236718, guid: 57d91b182897a934fba2198151d8b826,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3670,20 +3605,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 7878009755943576201, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 8941849611092361742, guid: 57d91b182897a934fba2198151d8b826,
         type: 3}
       propertyPath: m_Name
       value: Torch
-      objectReference: {fileID: 0}
-    - target: {fileID: 8941849611092361742, guid: 57d91b182897a934fba2198151d8b826,
-        type: 3}
-      propertyPath: m_StaticEditorFlags
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
