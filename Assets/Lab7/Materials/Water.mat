@@ -21,7 +21,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Water
-  m_Shader: {fileID: -6465566751694194690, guid: 71fe6fc22976d4c41bca5ba25295f0d8,
+  m_Shader: {fileID: -6465566751694194690, guid: 2998993f052e902458afd2a059f86aa6,
     type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
@@ -77,6 +77,10 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _RippleRenderTexture:
+        m_Texture: {fileID: 8400000, guid: 8b5a398724433004796ad6897cbbc41f, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _SampleTexture2D_2d16d7a44c1f4e25b547ffa292b1a47f_Texture_1_Texture2D:
         m_Texture: {fileID: 8400000, guid: 8b5a398724433004796ad6897cbbc41f, type: 2}
         m_Scale: {x: 1, y: 1}
@@ -108,7 +112,7 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
-    - _DepthFade: 1.5
+    - _DepthFade: 4.66
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
@@ -116,8 +120,8 @@ Material:
     - _EnvironmentReflections: 1
     - _FoamAmount: 12.1
     - _FoamCutOff: 1
-    - _FoamDepth: 1
-    - _FoamNoiseScale: 1.12
+    - _FoamDepth: 0.8
+    - _FoamNoiseScale: 1.29
     - _FoamScale: 10
     - _FoamSpeed: 0.4
     - _GlossMapScale: 0
@@ -148,12 +152,12 @@ Material:
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 0, g: 0.87597656, b: 1, a: 0.5803922}
-    - _DeepColor: {r: 0, g: 0.1606153, b: 1, a: 1}
+    - _DeepColor: {r: 0, g: 0.32439756, b: 1, a: 1}
     - _DepthWater: {r: 1, g: 0, b: 0.12530705, a: 0.36862746}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
     - _FomColor: {r: 0, g: 0, b: 0, a: 0}
-    - _ShallowColor: {r: 0, g: 0.7104623, b: 1, a: 1}
+    - _ShallowColor: {r: 0, g: 0.6115854, b: 1, a: 1}
     - _ShallowWater: {r: 0.116242, g: 1, b: 0, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
   m_BuildTextureStacks: []
