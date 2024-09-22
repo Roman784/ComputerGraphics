@@ -1312,7 +1312,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _moveSpeed: 2
-  sensitivity: 100
+  sensitivity: 50
   initialRotation: {x: 0, y: 0, z: 0}
 --- !u!1001 &239975931
 PrefabInstance:
